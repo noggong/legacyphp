@@ -1,0 +1,53 @@
+.red {
+	color: #ff0000;
+}
+
+.blue {
+	color: #0000ff;
+}
+
+.green {
+	color: #00ff00;
+}
+
+div#wrap {
+	width: 970px;
+	margin: auto;
+	border: 1px solid black;
+}
+
+div {
+	width: 300px;
+	border: 1px solid black;
+}
+
+table {
+	width: 100%;
+}
+
+
+td {
+	text-align: center;
+}
+
+.paging-table > tr > td {text-align: left;}
+.paging-table ul li {
+	float: left;
+	margin-right: 20px;
+}
+.after-float {
+	clear: both;
+
+
+}
+
+.title {
+	text-align: right;
+}
+ul {
+	list-style: none
+}
+img {
+	width: 300px;
+	float: right;
+}
